@@ -1,0 +1,70 @@
+{
+  "transactions": [
+    {
+      "amount": 10000,
+      "buyer_document": "12345678912",
+      "credit_card_cvv": "123",
+      "credit_card_expiration_date": "0121",
+      "credit_card_holder_name": "JOAO S SAURO",
+      "credit_card_number": "4111111111111111",
+      "date": "2020-11-10T19:43:56.451Z",
+      "id": 1,
+      "status": "paid"
+    },
+    {
+      "amount": "50000",
+      "credit_card_cvv": "470",
+      "credit_card_holder_name": "Teste",
+      "credit_card_expiration_date": "04/10",
+      "credit_card_number": "5328689133329692",
+      "buyer_document": "70546587011",
+      "status": "refused",
+      "date": "2021-03-04T13:28:31.670Z",
+      "id": 2
+    },
+    {
+      "amount": "200",
+      "credit_card_cvv": "965",
+      "credit_card_holder_name": "Teste 2",
+      "credit_card_expiration_date": "02/23",
+      "credit_card_number": "5560885006979632",
+      "buyer_document": "04434441027",
+      "status": "refused",
+      "date": "2021-03-09T20:36:03.673Z",
+      "id": 3
+    },
+    {
+      "amount": "20000",
+      "credit_card_cvv": "965",
+      "credit_card_holder_name": "teste final",
+      "credit_card_expiration_date": "02/23",
+      "credit_card_number": "5560885006979632",
+      "buyer_document": "13399377002",
+      "status": "paid",
+      "date": "2021-03-09T22:20:34.604Z",
+      "id": 4
+    },
+    {
+      "amount": "23203",
+      "credit_card_cvv": "420",
+      "credit_card_holder_name": "Teste 3",
+      "credit_card_expiration_date": "03/23",
+      "credit_card_number": "5452132275776972",
+      "buyer_document": "13399377002",
+      "status": "paid",
+      "date": "2021-03-09T22:21:55.573Z",
+      "id": 5
+    },
+    {
+      "amount": "10000",
+      "credit_card_cvv": "798",
+      "credit_card_holder_name": "teste",
+      "credit_card_expiration_date": "11/21",
+      "credit_card_number": "5466621153669493",
+      "buyer_document": "55272224078",
+      "status": "refused",
+      "date": "2021-03-10T12:26:30.139Z",
+      "id": 6
+    }
+  ]
+}
